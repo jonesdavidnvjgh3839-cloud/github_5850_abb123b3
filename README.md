@@ -1,15 +1,12 @@
-# Acme Knowledge Base
+# Nimbus Cloud Knowledge Base
 
-Welcome to the Acme Template knowledge base. This repository is the starting point for your team's documentation site.
+Welcome to the **Nimbus Cloud** knowledge base. This site documents our cloud infrastructure products and services.
 
-## Getting Started
+## Product Catalog
 
-To customize this site, update the site configuration, replace the sample product records with your own catalog, and publish your documentation.
+Browse the `products/` directory for documentation on all Nimbus Cloud products, including compute, storage, network, database, and security services.
 
 ## Sections
 
 - `products/` - Product documentation
-- `docs/` - Guides and reference material
-- `team/` - Team member profiles
-- `blog/` - Announcements and posts
-- `changelog/` - Release notes
+- `summary.md` - Product catalog summary
