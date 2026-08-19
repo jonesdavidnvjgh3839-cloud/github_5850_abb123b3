@@ -1,0 +1,13 @@
+{
+  "site_name": "Acme Template",
+  "tagline": "A default template tagline for demonstration purposes.",
+  "owner": "Template Admin",
+  "default_language": "en",
+  "featured_products": [
+    "nimbus-compute",
+    "nimbus-storage",
+    "nimbus-network",
+    "nimbus-database",
+    "nimbus-security"
+  ]
+}
