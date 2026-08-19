@@ -1,8 +1,9 @@
----
-title: Compute Alpha
-category: compute
-status: preview
----
-# Compute Alpha
+# Nimbus Compute
 
-This is a placeholder record shipped with the template. Replace this content with the real product documentation.
+**Product key:** `nimbus-compute`
+
+Nimbus Compute provides scalable, on-demand virtual machines and container orchestration for running production workloads with predictable performance and granular control.
+
+---
+
+*This page is part of the Nimbus Cloud knowledge base.*
