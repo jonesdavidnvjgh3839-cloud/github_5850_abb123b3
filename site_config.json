@@ -1,7 +1,7 @@
 {
-  "site_name": "Acme Template",
-  "tagline": "A default template tagline for demonstration purposes.",
-  "owner": "Template Admin",
+  "site_name": "Nimbus Cloud",
+  "tagline": "Secure, scalable cloud infrastructure for modern enterprises.",
+  "owner": "Nimbus Cloud Documentation Team",
   "default_language": "en",
   "featured_products": [
     "nimbus-compute",
